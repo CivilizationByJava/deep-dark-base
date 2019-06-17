@@ -1,0 +1,7 @@
+.card {
+  border-radius: 5px;
+}
+
+card > image {
+  border-radius: 5px;
+}
